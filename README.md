@@ -10,3 +10,5 @@ Alexhacking!!!
 [ALEX](http://192.168.1.25:8080/spinspire.html)
 
 [FILESYSTEMAPI](https://googlechromelabs.github.io/browser-fs-access/demo/)
+
+[PDF](http://192.168.1.25:8080/sample.pdf)
