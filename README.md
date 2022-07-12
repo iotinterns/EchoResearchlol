@@ -12,3 +12,10 @@ Alexhacking!!!
 [FILESYSTEMAPI](https://googlechromelabs.github.io/browser-fs-access/demo/)
 
 [PDF](http://192.168.1.25:8080/sample.pdf)
+
+
+
+
+Nest Hub
+
+S.E.T. Attack:(http://10.0.2.15:8080)
