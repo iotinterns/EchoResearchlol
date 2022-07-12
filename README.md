@@ -18,4 +18,4 @@ Alexhacking!!!
 
 Nest Hub
 
-S.E.T. Attack:(http://10.0.2.15:8080)
+S.E.T. Attack:(http://192.168.1.29:8080)
