@@ -2,6 +2,8 @@ Alexhacking!!!
 
 [Connect](http://192.168.1.33:8080/index.html)
 
+[I guess you could say i'm a sweet baby rays fan boy](http://192.168.1.39:8080/rhs.html)
+
 
 [EXPLOIT](http://192.168.1.25:8080/exploit.html)
 
